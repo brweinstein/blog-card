@@ -1,4 +1,4 @@
-# Frontend Mentor - QR code component solution
+# Frontend Mentor - Blog Preview Card
 This is a solution to the [Blog preview card](https://www.frontendmentor.io/learning-paths/getting-started-on-frontend-mentor-XJhRWRREZd/steps/67d6c626e22457629b82b80d/challenge/start). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
